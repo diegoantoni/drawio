@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T17:47:14.649Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.4" etag="HsJGK35dvGqS98jK2Hgg" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T18:50:07.234Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="M3UVRQkxvVzpp5sn2bkZ" version="23.1.4" type="github">
   <diagram name="Página-1" id="C5lyU7htiSckieaDYgFO">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Campo Nutrição&lt;/b&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="80" width="920" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-9" value="" style="fillColor=none;strokeColor=#9999FF;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-3" value="Organizations &lt;br&gt;Management &lt;br&gt;Account&lt;br&gt;(aws@camponutricao.com.br)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_management_account2;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="120" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#9999FF;" edge="1" parent="1" source="9PoHRuJ6eb7SZCxqpU_8-4" target="9PoHRuJ6eb7SZCxqpU_8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#9999FF;" edge="1" parent="1" source="9PoHRuJ6eb7SZCxqpU_8-4" target="9PoHRuJ6eb7SZCxqpU_8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-4" value="Organization&amp;nbsp;&lt;br&gt;Campo Nutrição" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.organizations;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-6" value="Organization unit&lt;br&gt;(OU)&lt;br&gt;PROD" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_organizational_unit2;" vertex="1" parent="1">
+          <mxGeometry x="412" y="360" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=6;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" vertex="1" parent="1">
+          <mxGeometry x="532.1800000000001" y="360" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-10" value="Conta filha&lt;br&gt;Prod&lt;br&gt;aws+prod@camponutricao.com.br" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" vertex="1" parent="1">
+          <mxGeometry x="413.43" y="510" width="53.13" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-11" value="" style="fillColor=none;strokeColor=#9999FF;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="360" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-12" value="Organization unit&lt;br&gt;(OU)&lt;br&gt;TESTE" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_organizational_unit2;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="360" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=6;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" vertex="1" parent="1">
+          <mxGeometry x="91.18000000000006" y="360" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-14" value="Conta filha&lt;br&gt;Prod&lt;br&gt;aws+teste@camponutricao.com.br" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" vertex="1" parent="1">
+          <mxGeometry x="-27.569999999999993" y="510" width="53.13" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;" edge="1" parent="1" source="9PoHRuJ6eb7SZCxqpU_8-3" target="9PoHRuJ6eb7SZCxqpU_8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9PoHRuJ6eb7SZCxqpU_8-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=6;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" vertex="1" parent="1">
+          <mxGeometry x="260.00000000000006" y="120" width="27.82" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
